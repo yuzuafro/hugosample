@@ -23,6 +23,8 @@ int main()
 {
     /* サンプル */
     printf("test¥n");
+
+    return 0;
 }
 ```
 
