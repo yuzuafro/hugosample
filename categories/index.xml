@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo Sample</title>
-    <link>http://yuzuafro.github.io/hugosample/categories/</link>
+    <link>https://yuzuafro.github.io/hugosample/categories/</link>
     <description>Recent content in Categories on Hugo Sample</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Hugo Sample</copyright>
     
-	<atom:link href="http://yuzuafro.github.io/hugosample/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yuzuafro.github.io/hugosample/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Develop</title>
-      <link>http://yuzuafro.github.io/hugosample/categories/develop/</link>
+      <link>https://yuzuafro.github.io/hugosample/categories/develop/</link>
       <pubDate>Sat, 14 Apr 2018 22:53:21 +0900</pubDate>
       
-      <guid>http://yuzuafro.github.io/hugosample/categories/develop/</guid>
+      <guid>https://yuzuafro.github.io/hugosample/categories/develop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>http://yuzuafro.github.io/hugosample/categories/test/</link>
+      <link>https://yuzuafro.github.io/hugosample/categories/test/</link>
       <pubDate>Sun, 08 Apr 2018 14:45:02 +0900</pubDate>
       
-      <guid>http://yuzuafro.github.io/hugosample/categories/test/</guid>
+      <guid>https://yuzuafro.github.io/hugosample/categories/test/</guid>
       <description></description>
     </item>
     
