@@ -1,9 +1,10 @@
-baseURL = "https://yuzuafro.github.io/hugosample"
-languageCode = "ja"
+baseURL = "https://yuzuafro.github.io/hugosample/"
+languageCode = "ja-jp"
 title = "Hugo Sample"
 copyright = "&copy; Hugo Sample"
 theme = "vienna"
 hasCJKLanguage = true
+paginate = 5
 
 [params]
   twitter = "yuzu_afro"
@@ -11,4 +12,3 @@ hasCJKLanguage = true
   instagram = "yuzukonango"
   disqus = "yuzuafro"
   subtitle = "hugo sample blog"
-
