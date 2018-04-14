@@ -1,0 +1,14 @@
+baseURL = "https://yuzuafro.github.io/hugosample"
+languageCode = "ja"
+title = "Hugo Sample"
+copyright = "&copy; Hugo Sample"
+theme = "vienna"
+hasCJKLanguage = true
+
+[params]
+  twitter = "yuzu_afro"
+  github = "yuzuafro"
+  instagram = "yuzukonango"
+  disqus = "yuzuafro"
+  subtitle = "hugo sample blog"
+
